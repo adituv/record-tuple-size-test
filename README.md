@@ -14,7 +14,7 @@ that does not seem to be the case ([output](https://i.imgur.com/TUbIaof.png)).
 To use this as a test, run:
 
 ```
-stack clean
+stack clean --resolver=X
 stack build --resolver=X
 ```
 
